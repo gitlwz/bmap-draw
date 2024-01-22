@@ -3,7 +3,7 @@
 
 版本信息 ![npm-version](https://img.shields.io/npm/v/@baidu-map/bmap-draw)
 
-[官网文档地址](https://lbsyun.baidu.com/logistics-draw/)
+[官网文档地址](https://lbsyun.baidu.com/logistics-draw-v2/)
 
 ## 快速上手
 
